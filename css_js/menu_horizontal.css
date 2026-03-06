@@ -1,0 +1,28 @@
+/* CSS Document */
+
+
+        #menu ul {   
+            padding:0px;   
+            margin:0px;   
+            float: right;   
+            width: 400;   
+            background-color:#ffffff;   
+            list-style:none;   
+            font:10px Tahoma;   
+        }   
+  
+        #menu ul li { display: inline; }   
+  
+        #menu ul li a {   
+            background-color:#ffffff;   
+            color: #0000ff;   
+            text-decoration: none;   
+            padding: 0px 10px;   
+            float:left;   
+        }   
+  
+        #menu ul li a:hover {   /* EFEITOS QUANDO O MOUSE ESTÁ EM CIMA */
+              /* cor de fundo */
+            color: #0000ff;   /* cor da fonte */
+            border:1px solid #0000ff;   /* cor da borda */
+        }   
